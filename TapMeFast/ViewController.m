@@ -20,4 +20,6 @@
 }
 
 
+- (IBAction)startAction:(id)sender {
+}
 @end
